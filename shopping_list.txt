@@ -1,0 +1,7 @@
+1. rice
+2. meat
+3. oil
+4. mango
+5. banana
+
+“this is the second part of tools”
